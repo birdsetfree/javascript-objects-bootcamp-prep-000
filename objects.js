@@ -1,3 +1,3 @@
 var playlist = { sia : "chandelier"};
 
-function updatePlaylist(obj,) {}
+function updatePlaylist(playlist, artistName, songTitle) {}
